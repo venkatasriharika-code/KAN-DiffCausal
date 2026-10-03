@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
+scikit-image
+tqdm
+tensorboard
+pysptools
+pytorch-msssim
+jupyter
