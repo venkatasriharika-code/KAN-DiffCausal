@@ -32,7 +32,7 @@
 
 <p align="center">
   <b>Venkata Sriharika</b> · Research Intern, SAMI Lab, IIIT Sricity<br>
-  <sub>ISRO-funded project · Supervised by <b>Dr. Arun P. V. Sir</b></sub>
+  <sub>ISRO-funded project · Supervised by <b>Dr. Arun P. V</b></sub>
 </p>
 
 <p align="center">
@@ -249,7 +249,7 @@ Being upfront about what this work does **not** show:
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/<your-username>/KAN-DiffCausal.git
+https://github.com/venkatasriharika-code/KAN-DiffCausal.git
 cd KAN-DiffCausal
 pip install -r requirements.txt
 jupyter notebook notebooks/KAN-DiffCausal.ipynb
@@ -281,7 +281,7 @@ KAN-DiffCausal/
 ## 🙏 Acknowledgements
 
 - Built on **KAEXNet** and **KAN-GAN / FBD-KAN** from the SAMI Lab. The FastKAN convolution layers are carried over from that work.
-- Conducted at **SAMI Lab, IIIT Sricity**, as part of an **ISRO-funded** project, under the supervision of **Dr. Arun P. V. Sir**.
+- Conducted at **SAMI Lab, IIIT Sricity**, as part of an **ISRO-funded** project, under the supervision of **Dr. Arun P. V**.
 - **Pavia University** hyperspectral scene, a public remote-sensing benchmark.
 
 ---
